@@ -32,7 +32,7 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-    color: #127237;
+    color: #0b2c18;
     text-transform: uppercase;
     
 }
@@ -41,7 +41,7 @@ nav ul li a::after{
     content:'';
     height: 3px;
     width: 0;
-    background: #127237;
+    background: #0b2c18;
     position: absolute;
     left: 0;
     bottom: -1px;
@@ -81,7 +81,7 @@ nav ul li a:hover::after{
 .content h1 {
     font-size: 2em;
     margin-bottom: 0.5em;
-    color:#127237
+    color:#0b2c18
 }
 
 .content p {
